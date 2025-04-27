@@ -6,3 +6,6 @@ this is new project
 
 
 name of the project is project2
+
+# project 3
+    This is the project project 3
